@@ -1,54 +1,29 @@
 ---
-name: David Levai
-avatar: /static/images/avatar.png
-occupation: Part-Time Creator & Full-Time COO
-company: ScreamingBox
-email: david@davidlevai.com
-twitter: https://twitter.com/iamdavidlevai
-linkedin: https://www.linkedin.com/in/iamdavidlevai
-github: https://github.com/DLevai94
+name: Abdul Rozaqi
+avatar: /static/images/foto.png
+occupation: Student High School
+email: rozaqiwt@gmail.com
+twitter: #
+linkedin: #
+github: https://github.com/rozaqiw	
 ---
 
-I'm a Part-Time Creator and full-time COO @ [ScreamingBox](https://screamingbox.com).
+### Hi there 👋
 
-I create various types of content across [Twitter](https://twitter.com/iamdavidlevai), [YouTube](https://dvdlv.me), [LinkedIn](https://linkedin.com/in/iamdavidlevai),[TikTok](https://tiktok.com/@iamdavidlevai), and this blog about **building IT businesses and production-ready apps.**
+I'm Abdul Rozaqi Wildan, currently studying at SMKN 1 Cimahi, majoring in Informatics, Networking, and Application System (SIJA), Interested in Cyber Security, Cloud Computing, and Programming.
 
-Since my teenage years, I have worked as a freelance full-stack developer mostly with
-startups and small businesses. In 2020 I decided to use this knowledge to scale a
-digital agency and build open startups.
+- 🌱 I’m currently learning Cloud Computing and Capture The Flag
+- 💬 Ask me about ANYTHING! feel free to reach me
+- 📫 How to reach me: via E-mail (rozaqiwt@gmail.com)
 
-## Why I'm doing these in public?
+I also have my [personal blog](https://rozaqi.medium.com/), you can check that out also to know more about me.
 
-- I believe that learning from others by following their journey is inspiring and helpful. I too follow tens of creators on their journey.
-- By being active in social media, and building in public, I can meet with interesting people, and support each other.
+**This is my personal repository**
+Feel free to check my repository, don't forget to notify me if you found something wrong or want to use my projects :grin:
 
-Also, when I'm away from the internet, I spend my time working out, travel to interesting places, playing some Rainbow Six: Siege.
+### Connect with me : 
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rozaqi)[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rozaqi-wildan-3196211a6/)[![](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://rozaqi.co/)
 
-## What can you find here?
+[![Rozaqiw's github stats](https://github-readme-stats.vercel.app/api?username=rozaqiw&show_icons=true&hide=issues&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Vlogs, essays, tips, and discussions. About building an international digital product
-agency, building production-ready apps, and being mindful, productive as an
-entrepreneur in IT. If you have some more time, feel free to read about my background,
-knowledge, experience, and my why in the next few paragraphs:
 
-When I'm not creating content, or managing a business, I am a full-stack developer who
-started as a UI designer. Enthusiastic about growth mindset and self-development,
-passionate about digital marketing, and UX. Always on the lookout for how to maximize
-productivity and my teams' efficiency.
-
-**My background as a Software Engineer:** I create user-centered web and
-mobile applications using cutting-edge technologies like React Native, Flutter,
-GraphQL, and ESNext for almost 10 years. I love to learn new things by experimenting
-with state-of-the-art technologies (mostly JS-related).
-
-**My background as a Content Creator:** I like sharing my knowledge with
-others, so I write for several tech blogs and authoring my blog too. I also create
-content on LinkedIn, Twitter, and Youtube to teach software devs how to be successful
-as freelancers, and how to write truly production-ready apps.
-
-**My background as an Entrepreneur:** I've got experience in managing small &
-medium-sized product development teams by running a digital agency. We successfully
-finished several projects that were started from the ground up with lean, agile
-methods for multiple clients. I managed the projects from estimation & proposal,
-through design & development, to marketing & maintenance. Later, I joined an
-international digital product agency, ScreamingBox as a COO.

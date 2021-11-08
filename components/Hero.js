@@ -8,8 +8,19 @@ const Hero = () => {
     <section className="grid lg:grid-rows-1 lg:grid-cols-2 items-center justify-between py-8 min-w-screen">
       <div className="flex flex-col items-start justify-center w-full h-full pr-8 mb-10 xl:mb-0">
         <div className="flex flex-col md:flex-row justify-start items-center">
-          <h2 className="ml-0 text-3xl font-extrabold font-display leading-tight sm:text-4xl sm:leading-none md:text-5xl lg:text-5xl xl:text-6xl">
-            Abdul Rozaqi
+          <Image
+            src="/static/images/foto.png"
+            alt="An image about David Levai"
+            className="border-2 border-gray-200 rounded-full w-32 h-32 shadow-md"
+            width={72}
+            height={72}
+            layout="fixed"
+            quality={100}
+            priority
+            loading="eager"
+          />
+ <h2 className="ml-6 text-3xl font-extrabold font-display leading-tight sm:text-4xl sm:leading-none md:text-5xl lg:text-5xl xl:text-6xl">
+            Abdul Rozaq
           </h2>
         </div>
         <p className="mt-2 text-lg ">
@@ -23,7 +34,6 @@ I have background in Informatics, Networking, and Application System at High Sch
         <div className="grid gap-8 items-start my-2">
           <div className="relative group">
             <div className="absolute -inset-0.5 bg-gradient-to-r from-green-600 to-amber-500 rounded-lg blur opacity-25 group-hover:opacity-100 transition duration-1000 group-hover:duration-200 animate-tilt"></div>
-            <Link href="/projects">
               <a className="relative px-7 py-4 bg-white dark:bg-black rounded-lg leading-none flex items-center divide-x divide-gray-600">
                 <span className="flex items-center space-x-5">
                   <svg
@@ -41,20 +51,18 @@ I have background in Informatics, Networking, and Application System at High Sch
                     />
                   </svg>
                   <span className="pr-6 text-gray-900 dark:text-gray-100">
-                    Building apps & businesses in public
+			Interested in IT since junior high school
                   </span>
                 </span>
                 <span className="pl-6 text-amber-400 group-hover:text-gray-900 dark:group-hover:text-gray-100 transition duration-200">
-                  Projects &rarr;
+
                 </span>
               </a>
-            </Link>
           </div>
         </div>
         <div className="grid gap-8 items-start my-2">
           <div className="relative group">
             <div className="absolute -inset-0.5 bg-gradient-to-r from-pink-600 to-purple-600 rounded-lg blur opacity-25 group-hover:opacity-100 transition duration-1000 group-hover:duration-200 animate-tilt"></div>
-            <Link href="/content">
               <a className="relative px-7 py-4 bg-white dark:bg-black rounded-lg leading-none flex items-center divide-x divide-gray-600">
                 <span className="flex items-center space-x-5">
                   <svg
@@ -72,20 +80,15 @@ I have background in Informatics, Networking, and Application System at High Sch
                     />
                   </svg>
                   <span className="pr-6 text-gray-900 dark:text-gray-100">
-                    Educating about the business of IT
+			Studying at SMKN 1 Cimahi and put majoring SIJA
                   </span>
                 </span>
-                <span className="pl-6 text-indigo-400 group-hover:text-gray-900 dark:group-hover:text-gray-100 transition duration-200">
-                  Content &rarr;
-                </span>
               </a>
-            </Link>
           </div>
         </div>
         <div className="grid gap-8 items-start my-2">
           <div className="relative group">
             <div className="absolute -inset-0.5 bg-gradient-to-r from-fuchsia-600 to-primary-600  rounded-lg blur opacity-25 group-hover:opacity-100 transition duration-1000 group-hover:duration-200 animate-tilt"></div>
-            <Link href="/mentoring">
               <a className="relative px-7 py-4 bg-white dark:bg-black rounded-lg leading-none flex items-center divide-x divide-gray-600">
                 <span className="flex items-center space-x-5">
                   <svg
@@ -105,14 +108,10 @@ I have background in Informatics, Networking, and Application System at High Sch
                     />
                   </svg>
                   <span className="pr-6 text-gray-900 dark:text-gray-100">
-                    Helping to grow as a dev entrepreneur
+			How to reach me: via E-mail (rozaqiwt@gmail.com)
                   </span>
                 </span>
-                <span className="pl-6 text-primary-400 group-hover:text-gray-900 dark:group-hover:text-gray-100 transition duration-200">
-                  Mentoring &rarr;
-                </span>
               </a>
-            </Link>
           </div>
         </div>
       </div>
