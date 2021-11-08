@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Abdul Rozaqi</title>
+      <link>https://rozaqi.co/content</link>
+      <description>I have background in Informatics, Networking, and Application System at High School. I am very enthusiastic in the fields of Cyber Security, Cloud Computing and programming.</description>
+      <language>en-us</language>
+      <managingEditor># (Abdul Rozaqi)</managingEditor>
+      <webMaster># (Abdul Rozaqi)</webMaster>
+      <lastBuildDate>Invalid Date</lastBuildDate>
+      <atom:link href="https://rozaqi.co/tags/docker/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://rozaqi.co/cara-install-kubernetes-cluster</guid>
+    <title>Cara Install Kubernetes Cluster</title>
+    <link>https://rozaqi.co/cara-install-kubernetes-cluster</link>
+    <description>Kubernetes adalah platform open source yang berfungsi untuk melakukan manajemen workload aplikasi yang dikontainerisasi, serta menyediakan konfigurasi dan otomatisasi secara deklaratif.</description>
+    <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
+    <author># (Abdul Rozaqi)</author>
+    <category>docker</category><category>kubernetes</category>
+  </item>
+
+    </channel>
+  </rss>
