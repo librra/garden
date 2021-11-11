@@ -19,18 +19,14 @@ export default function Mentoring() {
             </Link>
             .
           </h1>
-          <ul className="mt-4 list-disc">
-            <li className="list-item mt-2">• Growing as a freelancer developer</li>
-            <li className="list-item mt-2">• Growing as an indie developer</li>
-            <li className="list-item mt-2">• Building production-ready SaaS</li>
-            <li className="list-item mt-2">• Building a digital product agency</li>
-          </ul>
-          <p className="mt-24">
-            This page is currently a draft. Look back later to see what's changed.{' '}
-            <span role="img" aria-label="roadwork sign">
-              🚧
-            </span>
-          </p>
+<div className="w-1/3 bg-white rounded-lg shadow">
+    <ul className="divide-y-2 divide-gray-100">
+        <li className="p-3">List Item 1</li>
+        <li className="p-3">List Item 2</li>
+        <li className="p-3">List Item 3</li>
+        <li className="p-3">List Item 4</li>
+    </ul>
+</div>
         </div>
       </div>
     </>
