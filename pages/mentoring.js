@@ -4,7 +4,6 @@ import Link from '@/components/Link'
 
 export default function Mentoring() {
   return (
-    <>
       <PageSEO
         title={`Mentoring - ${siteMetadata.author}`}
         description={`Mentoring - ${siteMetadata.author}`}
@@ -56,7 +55,5 @@ export default function Mentoring() {
     </div>
   </div>
 </div>
-
-    </>
   )
 }
